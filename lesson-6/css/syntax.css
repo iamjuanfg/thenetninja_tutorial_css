@@ -1,0 +1,14 @@
+#header{
+    position: absolute;
+    top: 0px;
+    left: 0px
+}
+
+#header h1{
+    font-size: 32px;
+}
+
+p{
+    font-size: 18px;
+    color: red;
+}
